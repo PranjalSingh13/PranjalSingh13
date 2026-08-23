@@ -113,18 +113,6 @@ A custom database engine project focused on implementing core database concepts 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranjalSingh13&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranjal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalSingh13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
