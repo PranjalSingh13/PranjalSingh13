@@ -25,29 +25,30 @@
 
 ## 🚀 Featured Projects
 
-### 📚 Smart Learning Platform
+### 📚 [Smart Learning Platform](https://github.com/PranjalSingh13/smart-learning-platform)
 
 **HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • JWT**
 
-A full-stack Learning Management System with authentication, course management and student progress tracking.
+Full-stack Learning Management System with authentication, course management and student progress tracking.
 
-### 🌾 AgriConnect
+### 🌾 [AgriConnect](https://github.com/PranjalSingh13/AgriConnect)
 
 **React • Node.js • PostgreSQL**
 
-A platform designed to connect farmers and buyers while providing useful agricultural resources.
+Platform connecting farmers and buyers with agricultural resources and services.
 
-### 💰 Price Comparison Pro
+### 💰 [Price Comparison Pro](https://github.com/PranjalSingh13/Price-Comparison-Pro)
 
 **React • Flask • SQLite**
 
-A price comparison platform that aggregates product prices from multiple sources to help users make smarter purchasing decisions.
+Price comparison platform that aggregates product prices from multiple sources.
 
-### 🗄️ StructDB
+### 🗄️ [StructDB](https://github.com/PranjalSingh13/StructDB)
 
 **Python**
 
-A custom database engine project focused on implementing core database concepts and ACID principles.
+Custom database engine focused on core database concepts and ACID principles.
+
 
 ---
 
