@@ -1,5 +1,12 @@
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PranjalSingh13&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kestra-io/kestra/pull/20873">
+    <img src="https://img.shields.io/badge/Contributor-1st%20PR%20Merged-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Kestra Contributor — First PR Merged" />
+  </a>
 </p>
 
 <h3 align="center">
@@ -22,25 +29,25 @@
 
 ## 🚀 About Me
 
-* 🎓 BCA (AI & DS) student at Graphic Era Hill University
-* 💻 Full Stack & Backend Development enthusiast
-* 🧠 Currently strengthening Data Structures & Algorithms
-* 🌱 Building real-world applications and backend APIs
-* 🔥 Interested in scalable backend systems and databases
-* 🤝 Interested in Open Source and collaborative development
-* 📫 Email: **[ppranjalsingh13@gmail.com](mailto:ppranjalsingh13@gmail.com)**
+- 🎓 BCA (AI & DS) student at Graphic Era Hill University
+- 💻 Full Stack & Backend Development enthusiast
+- 🧠 Currently strengthening Data Structures & Algorithms
+- 🌱 Building real-world applications and backend APIs
+- 🔥 Interested in scalable backend systems and databases
+- 🤝 Interested in Open Source and collaborative development
+- 📫 Email: **[ppranjalsingh13@gmail.com](mailto:ppranjalsingh13@gmail.com)**
 
 ---
 
 ## 🛠️ What I Work With
 
-* 🌐 Full Stack Web Development
-* ⚙️ REST API Development
-* 🔐 Authentication & Authorization
-* 🗄️ Database Design & Management
-* 🧩 Data Structures & Algorithms
-* 🚀 Deployment & Git/GitHub
-* 🔄 Real-time Web Applications
+- 🌐 Full Stack Web Development
+- ⚙️ REST API Development
+- 🔐 Authentication & Authorization
+- 🗄️ Database Design & Management
+- 🧩 Data Structures & Algorithms
+- 🚀 Deployment & Git/GitHub
+- 🔄 Real-time Web Applications
 
 ---
 
@@ -80,7 +87,7 @@ A price comparison application that aggregates product prices from multiple sour
 
 **Python**
 
-A custom database engine project focused on understanding database internals and implementing core database concepts including ACID principles.
+A custom database engine project focused on understanding database internals and implementing core database concepts, including ACID principles.
 
 🔗 [View Project](https://github.com/PranjalSingh13/StructDB)
 
@@ -137,18 +144,18 @@ A custom database engine project focused on understanding database internals and
 
 Currently focused on:
 
-* Arrays & Strings
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Linked Lists
-* Stacks & Queues
-* Hashing
-* Trees & Binary Trees
-* Recursion & Backtracking
-* Greedy Algorithms
-* Graph Algorithms
-* Dynamic Programming
+- Arrays & Strings
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Linked Lists
+- Stacks & Queues
+- Hashing
+- Trees & Binary Trees
+- Recursion & Backtracking
+- Greedy Algorithms
+- Graph Algorithms
+- Dynamic Programming
 
 🔗 [View my LeetCode](https://leetcode.com/u/Pranjasinghl13/)
 
@@ -172,36 +179,31 @@ Currently focused on:
 
 ## 🎯 Current Goals
 
-* 🧠 Master Data Structures & Algorithms
-* 💻 Become stronger in Full Stack Development
-* ⚙️ Build production-ready backend systems
-* 🗄️ Improve database design and optimization
-* 🚀 Contribute to Open Source
-* 💼 Prepare for software development placements
-* 📈 Continuously build and ship real-world projects
+- 🧠 Master Data Structures & Algorithms
+- 💻 Become stronger in Full Stack Development
+- ⚙️ Build production-ready backend systems
+- 🗄️ Improve database design and optimization
+- 🚀 Contribute to Open Source
+- 💼 Prepare for software development placements
+- 📈 Continuously build and ship real-world projects
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/PranjalSingh13">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/pranjal-singh-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Pranjasinghl13/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:ppranjalsingh13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://github.com/PranjalSingh13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranjal-singh-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Pranjasinghl13/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:ppranjalsingh13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
