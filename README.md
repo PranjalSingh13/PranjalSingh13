@@ -170,9 +170,8 @@ Currently focused on:
 ---
 
 ## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalSingh13&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=PranjalSingh13&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
