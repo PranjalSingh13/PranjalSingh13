@@ -1,106 +1,134 @@
+<h1 align="center">👋 Hi, I'm Pranjal Singh</h1>
+
+<h3 align="center">
+  Full Stack Developer | Backend Developer | Open Source Contributor
+</h3>
+
+<p align="center">
+  Building real-world applications, backend systems and developer tools.
+  Passionate about problem-solving, software engineering and open source.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PranjalSingh13&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
+## 🏆 Open Source Contributions
+
 <p align="center">
-  <a href="https://github.com/kestra-io/kestra/pull/20873">
-    <img src="https://img.shields.io/badge/Contributor-1st%20PR%20Merged-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Kestra Contributor — First PR Merged" />
+  <a href="https://github.com/search?q=org%3Akestra-io+author%3APranjalSingh13+is%3Apr+is%3Amerged&type=pullrequests">
+    <img src="https://img.shields.io/badge/5%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="Kestra - 5 PRs Merged" />
   </a>
 </p>
 
-<h3 align="center">
-  🚀 Web Developer • Backend Developer • DSA Learner • Open Source Enthusiast
-</h3>
-
-<h1 align="center">
-  Hi 👋, I'm Pranjal Singh
-</h1>
-
-<h3 align="center">
-  BCA AI & DS Student | Full Stack Developer | Backend Enthusiast
-</h3>
+<p align="center">
+  Contributing to open source, collaborating with developers,
+  and learning through real-world code.
+</p>
 
 <p align="center">
-  I build web applications, backend systems and projects while continuously improving my DSA and problem-solving skills.
+  <a href="https://github.com/search?q=org%3Akestra-io+author%3APranjalSingh13+is%3Apr+is%3Amerged&type=pullrequests">
+    View My Kestra Contributions
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BCA (AI & DS) student at Graphic Era Hill University
-- 💻 Full Stack & Backend Development enthusiast
-- 🧠 Currently strengthening Data Structures & Algorithms
-- 🌱 Building real-world applications and backend APIs
-- 🔥 Interested in scalable backend systems and databases
-- 🤝 Interested in Open Source and collaborative development
-- 📫 Email: **[ppranjalsingh13@gmail.com](mailto:ppranjalsingh13@gmail.com)**
-
----
-
-## 🛠️ What I Work With
-
-- 🌐 Full Stack Web Development
-- ⚙️ REST API Development
-- 🔐 Authentication & Authorization
-- 🗄️ Database Design & Management
-- 🧩 Data Structures & Algorithms
-- 🚀 Deployment & Git/GitHub
-- 🔄 Real-time Web Applications
+- 🎓 BCA student specializing in Artificial Intelligence & Data Science.
+- 💻 Interested in Backend Engineering and Full Stack Development.
+- 🌍 Open Source Contributor with 5 merged PRs to Kestra.
+- 🧠 Practicing Data Structures & Algorithms using C++.
+- ⚙️ Interested in REST APIs, databases and system design.
+- 🚀 Building practical applications and developer tools.
+- 📫 Email: **ppranjalsingh13@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 Smart Learning Platform
+### 🛡️ 1. GitWise — AI-Powered GitHub Repository & Security Companion
 
-**HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • JWT**
+**React • TypeScript • Node.js • Express.js • Gemini AI • OSV.dev**
 
-A full-stack Learning Management System designed to help students manage courses, authentication and learning progress.
+A developer-focused platform designed to help developers understand repositories, analyze codebases and identify potential security vulnerabilities.
 
-🔗 [View Project](https://github.com/PranjalSingh13/smart-learning-platform)
+**Key Features**
+- GitHub repository analysis and codebase exploration.
+- AI-powered code explanations and architecture insights.
+- Dependency vulnerability scanning using OSV.dev.
+- Security recommendations and remediation suggestions.
+- Pull request analysis and developer assistance.
+- Interactive Git learning experience.
 
----
+**Future Development**
+- VS Code extension.
+- Browser extension.
+- Advanced automated PR security analysis.
 
-### 🌾 AgriConnect
-
-**React • Node.js • PostgreSQL**
-
-A platform designed to connect farmers with buyers and provide useful agricultural resources and services.
-
-🔗 [View Project](https://github.com/PranjalSingh13/AgriConnect)
-
----
-
-### 💰 Price Comparison Pro
-
-**React • Flask • SQLite**
-
-A price comparison application that aggregates product prices from multiple sources to help users make smarter purchasing decisions.
-
-🔗 [View Project](https://github.com/PranjalSingh13/Price-Comparison-Pro)
+🔗 [GitHub Repository](https://github.com/PranjalSingh13/Gitwise)
 
 ---
 
-### 🗄️ StructDB
+### 🌾 2. AgriConnect — AI-Powered Agricultural Marketplace
+
+**React 19 • Node.js • Express.js • MongoDB • Gemini AI**
+
+A full-stack agricultural platform designed to connect farmers with buyers while providing AI-powered agricultural assistance.
+
+**Key Features**
+- Farmer marketplace and product listings.
+- Authentication and protected dashboards.
+- REST API development and CRUD operations.
+- AI-powered crop disease assistance.
+- Search and filtering functionality.
+- Backend validation and error handling.
+
+🔗 [GitHub Repository](https://github.com/PranjalSingh13/AgriConnect)
+
+🌐 [Live Demo](https://agri-connect-pearl-chi.vercel.app/)
+
+---
+
+### 📚 3. Smart Learning Platform — Learning Management System
+
+**JavaScript • Node.js • Express.js • MongoDB • JWT**
+
+A learning management platform designed to help students manage courses, assessments and learning progress.
+
+**Key Features**
+- Course management.
+- Instructor and student dashboards.
+- Authentication and protected resources.
+- Quizzes and assessments.
+- Student progress tracking.
+
+🔗 [GitHub Repository](https://github.com/PranjalSingh13/smart-learning-platform)
+
+---
+
+### 🗄️ 4. StructDB — Custom Database Engine
 
 **Python**
 
-A custom database engine project focused on understanding database internals and implementing core database concepts, including ACID principles.
+A project focused on understanding database internals, storage concepts and core database engineering principles.
 
-🔗 [View Project](https://github.com/PranjalSingh13/StructDB)
+🔗 [GitHub Repository](https://github.com/PranjalSingh13/StructDB)
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### Frontend
@@ -129,35 +157,45 @@ A custom database engine project focused on understanding database internals and
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### Tools & Platforms
+### Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 🧠 Data Structures & Algorithms
 
-Currently focused on:
+Currently strengthening my problem-solving skills using C++.
 
-- Arrays & Strings
+- Arrays and Strings
+- Hashing
 - Two Pointers
 - Sliding Window
 - Binary Search
 - Linked Lists
-- Stacks & Queues
-- Hashing
-- Trees & Binary Trees
-- Recursion & Backtracking
+- Stacks and Queues
+- Trees and Binary Trees
+- Recursion and Backtracking
 - Greedy Algorithms
 - Graph Algorithms
 - Dynamic Programming
 
-🔗 [View my LeetCode](https://leetcode.com/u/Pranjasinghl13/)
+🔗 [LeetCode Profile](https://leetcode.com/u/Pranjasinghl13/)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranjalSingh13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalSingh13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -169,26 +207,18 @@ Currently focused on:
 
 ---
 
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-activity-graph.luckylinux.dev/graph?username=PranjalSingh13&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 🎯 Current Goals
 
-- 🧠 Master Data Structures & Algorithms
-- 💻 Become stronger in Full Stack Development
-- ⚙️ Build production-ready backend systems
-- 🗄️ Improve database design and optimization
-- 🚀 Contribute to Open Source
-- 💼 Prepare for software development placements
-- 📈 Continuously build and ship real-world projects
+- Contribute to impactful open-source projects.
+- Improve backend engineering and system design skills.
+- Master DSA and problem-solving in C++.
+- Build scalable and production-ready applications.
+- Explore AI-powered developer tools.
+- Prepare for software engineering internships and placements.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/PranjalSingh13">
@@ -207,16 +237,10 @@ Currently focused on:
 
 ---
 
-## ⚡ A Little About My Journey
-
-> 💡 Learning every day, building real projects, solving problems and becoming a better developer — one commit at a time.
-
----
-
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>"Learning continuously. Building consistently. Contributing meaningfully."</i>
 </p>
 
 <p align="center">
-  <b>Let's build something great together 🚀</b>
+  ⭐ Thanks for visiting my profile!
 </p>
