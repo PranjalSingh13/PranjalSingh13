@@ -193,8 +193,24 @@ Currently strengthening my problem-solving skills using C++.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PranjalSingh13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalSingh13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranjalSingh13&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranjalSingh13&theme=tokyonight"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranjalSingh13&theme=tokyonight"
+    width="49%"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
